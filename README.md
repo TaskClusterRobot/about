@@ -1,4 +1,4 @@
-Hi, I'm Lisa. If you ever need help ping me here on GitHub, or on irc @TaskClusterRobot (coming soon).
+Hi, I'm [Lisa](http://simpsons.wikia.com/wiki/Lisa_Lionheart). If you ever need help ping me here on GitHub, or on irc @TaskClusterRobot (coming soon).
 
 My favorite activities:
  - Commenting on issues and commits.
